@@ -8,3 +8,8 @@ Este es un
 comentario
 en varias líneas
 """
+'''
+Este es un
+comentario
+en varias líneas
+'''
