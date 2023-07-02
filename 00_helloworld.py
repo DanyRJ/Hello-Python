@@ -4,7 +4,7 @@ print("Hola Python")
 print('Hola Python')
 
 """
-Este es un
+Este tambien es un
 comentario
 en varias líneas
 """
