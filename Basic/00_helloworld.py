@@ -20,3 +20,6 @@ print(type(1 + 2j)) # Tipo 'complex'
 print(type(True)) #Tipo 'bool
 
 print(type(print("Mi cadena de texto"))) #Tipo 'NoneType'
+"""
+No se si valdrá esto
+"""
