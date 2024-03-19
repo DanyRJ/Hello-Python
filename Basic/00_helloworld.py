@@ -3,7 +3,7 @@
 # Esto es un comentario de prueba, para saber si se actualiza con github
 print("Hola Python")
 print('Hola Python mundo')
-print(''Hola Python mundo'')
+print('Hola Python mundo')
 
 
 """
@@ -21,5 +21,5 @@ print(type(True)) #Tipo 'bool
 
 print(type(print("Mi cadena de texto"))) #Tipo 'NoneType'
 """
-No se si valdrá esto
+1,2,3
 """
