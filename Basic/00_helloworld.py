@@ -24,3 +24,5 @@ print(type(print("Mi cadena de texto"))) #Tipo 'NoneType'
 1,2,3
 """
 '''asdasda'''
+
+
